@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "915010015988",
+    "firebase_url": "https://flemkiller-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flemkiller",
+    "storage_bucket": "flemkiller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915010015988:android:77fa7357e0e32b134ec4a1",
+        "android_client_info": {
+          "package_name": "com.example.flemkillergeraud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915010015988-5duc398e4q5bk4ulfcdu0q0f0oeq6d4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeGhR-xuXGNh5Z4P3aWw0FnfAtYlWVo-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915010015988-5duc398e4q5bk4ulfcdu0q0f0oeq6d4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915010015988:android:7e2ca40c043af5924ec4a1",
+        "android_client_info": {
+          "package_name": "fr.theoffice.flemmekiller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915010015988-5duc398e4q5bk4ulfcdu0q0f0oeq6d4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeGhR-xuXGNh5Z4P3aWw0FnfAtYlWVo-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915010015988-5duc398e4q5bk4ulfcdu0q0f0oeq6d4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

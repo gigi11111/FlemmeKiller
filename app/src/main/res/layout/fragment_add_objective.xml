@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+        android:layout_height="40dp"
+        android:layout_width="match_parent">
+    <Button
+        android:text="@string/back"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="70dp"
+        android:text="@string/addObjectiveTitle"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        style="@style/textElements"/>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/nameObjective_imput"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/addObjectiveName"
+        android:paddingLeft="20dp"
+        android:textSize="30dp"
+        android:background="@color/lightGray"
+        android:cornerRadius="8dp"
+        style="textElements" />
+
+    <EditText
+        android:id="@+id/contentObjective_imput"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/addObjectiveContent"
+        android:paddingLeft="20dp"
+        android:background="@color/lightGray"
+        android:cornerRadius="8dp"
+        android:textSize="25dp"
+        style="textElements" />
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="match_parent"
+        android:layout_height="93dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@color/drarkGray"
+        android:onClick="goToMenu"
+        android:text="@string/addObjective"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+</LinearLayout>

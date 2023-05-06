@@ -1,0 +1,74 @@
+<resources>
+    <string name="appName">FlemmeKiller</string>
+
+    <!-- Page Sign Up/ Login -->
+    <!-- Only Sign Up -->
+
+    <string name="pricacyTerms">I accept the RGP rules</string>
+    <string name="newsLetters">I would like to receive your newsletter and other promotional information.</string>
+    <string name="followButtun">Follow</string>
+
+    <!-- The both -->
+
+    <string name="login">Log in</string>
+    <string name="signUp">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="showPassword">Show</string>
+    <string name="forgetPassword">Forgot your password?</string>
+
+    <!--Add an Objective-->
+    <string name="addObjectiveTitle">Add an Objective</string>
+    <string name="addObjectiveName">Add an objective name</string>
+    <string name="addObjectiveContent">Add the content of the objective</string>
+    <string name="addObjective">Add Objective</string>
+
+
+    <!-- Page Progression -->
+
+    <string name="progression">Progression</string>
+    <string name="expense">Expenses</string>
+
+    <!-- Page Objective -->
+
+    <string name="titleObjectives">Objectives</string>
+    <string name="back">Back</string>
+    <string name="profile">Profile</string>
+    <string name="searchObjectives">Search</string>
+    <string name="nameObjectives">Objectives name</string>
+    <string name="nontentObjectives">Content of the Objective</string>
+    <string name="timeObjectives">time ago</string>
+    <string name="addnewObjectives">Add a new Objectives</string>
+
+    <!--Objective Details-->
+
+    <string name="validerlatache">Validate Task</string>
+    <string name="annulerlatache">Cancel TAsk</string>
+    <string name="modifierlatache">Modify Content TAsk</string>
+
+    <!-- Page Congratulations -->
+
+    <string name="congratulation">Congratulations!</string>
+    <string name="congratulationMSG">Congratulations on completing your task! You\'ve taken another step towards achieving your goals and making progress towards a better version of yourself.</string>
+    <string name="clickMeButton">Click Me</string>
+
+
+    <!-- Page Profile -->
+
+
+
+    <!-- delete profile -->
+
+    <string name="delete">Delete Your Profile</string>
+    <string name="deleteMSG">Are you sure you want to delete your profile? This action is irreversible, and all of your data will be permanently deleted.</string>
+    <string name="deleteConfirmation">Yes I\'m Sure</string>
+    <string name="deleteCancel">Finally No</string>
+
+    <!-- Page Rate Our App -->
+
+    <string name="rateOurApp">Rate our app</string>
+    <string name="sendNote">I love it!</string>
+    <string name="whyRateIsImportant">TODO: add message</string>
+
+
+</resources>
